@@ -1,0 +1,10 @@
+C:\Users\vlad9\source\repos\UsingAppDomians\TextDrawer\bin\Debug\TextDrawer.exe.config
+C:\Users\vlad9\source\repos\UsingAppDomians\TextDrawer\bin\Debug\TextDrawer.exe
+C:\Users\vlad9\source\repos\UsingAppDomians\TextDrawer\bin\Debug\TextDrawer.pdb
+C:\Users\vlad9\source\repos\UsingAppDomians\TextDrawer\obj\Debug\TextDrawer.Form1.resources
+C:\Users\vlad9\source\repos\UsingAppDomians\TextDrawer\obj\Debug\TextDrawer.Properties.Resources.resources
+C:\Users\vlad9\source\repos\UsingAppDomians\TextDrawer\obj\Debug\TextDrawer.csproj.GenerateResource.cache
+C:\Users\vlad9\source\repos\UsingAppDomians\TextDrawer\obj\Debug\TextDrawer.csproj.CoreCompileInputs.cache
+C:\Users\vlad9\source\repos\UsingAppDomians\TextDrawer\obj\Debug\TextDrawer.exe
+C:\Users\vlad9\source\repos\UsingAppDomians\TextDrawer\obj\Debug\TextDrawer.pdb
+C:\Users\vlad9\source\repos\UsingAppDomians\TextDrawer\obj\Debug\TextDrawer.csprojAssemblyReference.cache

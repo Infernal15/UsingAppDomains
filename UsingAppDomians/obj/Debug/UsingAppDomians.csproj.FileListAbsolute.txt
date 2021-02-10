@@ -1,0 +1,9 @@
+C:\Users\vlad9\source\repos\UsingAppDomians\UsingAppDomians\bin\Debug\UsingAppDomians.exe.config
+C:\Users\vlad9\source\repos\UsingAppDomians\UsingAppDomians\bin\Debug\UsingAppDomians.exe
+C:\Users\vlad9\source\repos\UsingAppDomians\UsingAppDomians\bin\Debug\UsingAppDomians.pdb
+C:\Users\vlad9\source\repos\UsingAppDomians\UsingAppDomians\obj\Debug\UsingAppDomians.csprojAssemblyReference.cache
+C:\Users\vlad9\source\repos\UsingAppDomians\UsingAppDomians\obj\Debug\UsingAppDomians.Properties.Resources.resources
+C:\Users\vlad9\source\repos\UsingAppDomians\UsingAppDomians\obj\Debug\UsingAppDomians.csproj.GenerateResource.cache
+C:\Users\vlad9\source\repos\UsingAppDomians\UsingAppDomians\obj\Debug\UsingAppDomians.csproj.CoreCompileInputs.cache
+C:\Users\vlad9\source\repos\UsingAppDomians\UsingAppDomians\obj\Debug\UsingAppDomians.exe
+C:\Users\vlad9\source\repos\UsingAppDomians\UsingAppDomians\obj\Debug\UsingAppDomians.pdb
